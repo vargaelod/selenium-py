@@ -1,0 +1,1 @@
+magyarorszag_terulete = 93030
